@@ -1,0 +1,10 @@
+{
+	"name": "wdmd",
+    "targetType": "executable",
+	"authors": [
+		"SR_team"
+	],
+	"description": "Wrapper for run DMD in wine",
+	"copyright": "Copyright © 2017, SR_team",
+	"license": "GPL3"
+}
